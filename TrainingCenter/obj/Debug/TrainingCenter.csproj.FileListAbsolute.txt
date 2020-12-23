@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\bin\Debug\TrainingCenter.exe.config
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\bin\Debug\TrainingCenter.exe
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\bin\Debug\TrainingCenter.pdb
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.Form1.resources
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.Properties.Resources.resources
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.exe
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.pdb
+C:\Users\Hp\source\repos\Training-Center\TrainingCenter\obj\Debug\TrainingCenter.csprojAssemblyReference.cache
